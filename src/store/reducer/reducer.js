@@ -1,4 +1,4 @@
-import data from '../../assets/top5MoviesAssessement.json'
+import data from '../../feed/top5MoviesAssessement.json'
 const initialState ={
     orderSelection: data.components[0].items,
     posterDetails: data.components[1].items
